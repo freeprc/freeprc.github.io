@@ -1,0 +1,1 @@
+﻿positionForPages[29]={page:29,positions:[{word:"东西部文化交流，赓续创新文化品牌",left:0.029063,top:0.409268,width:0.944646,height:0.042259}]};

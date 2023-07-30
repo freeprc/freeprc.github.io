@@ -1,0 +1,1 @@
+﻿positionForPages[20]={page:20,positions:[{word:"线下活动",left:0.430933,top:0.448958,width:0.245275,height:0.043826}]};

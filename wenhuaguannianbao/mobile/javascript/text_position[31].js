@@ -1,0 +1,1 @@
+﻿positionForPages[31]={page:31,positions:[{word:"宣传助力南开区创建全国文明城区",left:0.068291,top:0.409268,width:0.885594,height:0.042259}]};

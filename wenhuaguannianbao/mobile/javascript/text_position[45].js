@@ -1,0 +1,1 @@
+﻿positionForPages[45]={page:45,positions:[{word:"南开区文化馆主办的《清风来“廉”花红》网络摄影展部分展出作品",left:0.073919,top:0.763578,width:0.604787,height:0.018402},{word:"43",left:0.856615,top:0.891752,width:0.021812,height:0.021980}]};

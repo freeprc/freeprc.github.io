@@ -1,0 +1,1 @@
+﻿positionForPages[50]={page:50,positions:[{word:"安全与党建工作",left:0.279278,top:0.399958,width:0.470810,height:0.062498},{word:"  ",left:0.159701,top:0.414620,width:0.018584,height:0.032219},{word:"3",left:0.178349,top:0.400077,width:0.033557,height:0.049354}]};

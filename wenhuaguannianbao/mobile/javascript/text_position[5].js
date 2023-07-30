@@ -1,0 +1,1 @@
+﻿positionForPages[5]={page:5,positions:[{word:"2",left:0.182577,top:0.404430,width:0.033557,height:0.049353},{word:"2022年文化馆业务建设",left:0.279294,top:0.406761,width:0.594457,height:0.056319}]};

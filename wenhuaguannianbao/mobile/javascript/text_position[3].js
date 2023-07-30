@@ -1,0 +1,1 @@
+﻿positionForPages[3]={page:3,positions:[{word:"1",left:0.182577,top:0.404430,width:0.033557,height:0.049353},{word:"南开区文化馆简介",left:0.279278,top:0.399958,width:0.538093,height:0.062498}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[56]={page:56,positions:[{word:"天津市南开区文化馆",left:0.579000,top:0.822614,width:0.332634,height:0.022237},{word:"    地址:南开区白堤路82号",left:0.579000,top:0.848272,width:0.377993,height:0.022237},{word:"    邮编:300193",left:0.579000,top:0.873930,width:0.226712,height:0.022237},{word:"    电话:（022）27380523",left:0.579000,top:0.899588,width:0.362873,height:0.022237}]};

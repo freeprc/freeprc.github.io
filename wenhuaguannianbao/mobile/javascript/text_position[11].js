@@ -1,0 +1,1 @@
+﻿positionForPages[11]={page:11,positions:[{word:"飞雪迎春系列文化活动",left:0.201596,top:0.402497,width:0.590340,height:0.042259}]};

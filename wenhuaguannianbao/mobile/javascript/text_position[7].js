@@ -1,0 +1,1 @@
+﻿positionForPages[7]={page:7,positions:[{word:"2022活动回顾",left:0.367178,top:0.452441,width:0.327594,height:0.044162}]};

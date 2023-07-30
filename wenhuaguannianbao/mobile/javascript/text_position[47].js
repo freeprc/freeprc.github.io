@@ -1,0 +1,1 @@
+﻿positionForPages[47]={page:47,positions:[{word:"",left:0.137253,top:0.402486,width:0.067493,height:0.048167},{word:"公益培训与数字文化建设",left:0.205124,top:0.407486,width:0.649391,height:0.042259}]};

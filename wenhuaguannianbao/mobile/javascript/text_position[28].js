@@ -1,0 +1,1 @@
+﻿positionForPages[28]={page:28,positions:[{word:"南开之夏闭幕式",left:0.066248,top:0.079946,width:0.350357,height:0.046612},{word:"26",left:0.859135,top:0.891752,width:0.019249,height:0.021980}]};

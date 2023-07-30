@@ -1,0 +1,1 @@
+﻿positionForPages[53]={page:53,positions:[{word:"2022",left:0.541937,top:0.723668,width:0.052435,height:0.022748},{word:"年各类安全视察与活动",left:0.594352,top:0.723718,width:0.235279,height:0.021546},{word:"51",left:0.862999,top:0.891752,width:0.015370,height:0.021980}]};

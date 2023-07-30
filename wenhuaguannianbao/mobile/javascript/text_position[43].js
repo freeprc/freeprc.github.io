@@ -1,0 +1,1 @@
+﻿positionForPages[43]={page:43,positions:[{word:"静态展览",left:0.378664,top:0.409268,width:0.236036,height:0.042259}]};

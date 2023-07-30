@@ -1,0 +1,1 @@
+﻿positionForPages[41]={page:41,positions:[{word:"积极创作原创作品",left:0.260983,top:0.409268,width:0.472238,height:0.042259}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[37]={page:37,positions:[{word:"组织参加各类赛事",left:0.259807,top:0.409268,width:0.472238,height:0.042259}]};

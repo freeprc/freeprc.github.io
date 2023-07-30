@@ -1,0 +1,1 @@
+﻿positionForPages[17]={page:17,positions:[{word:"南开之夏系列文艺活动",left:0.201596,top:0.402497,width:0.590340,height:0.042259}]};

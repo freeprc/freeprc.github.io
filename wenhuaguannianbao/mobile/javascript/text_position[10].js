@@ -1,0 +1,1 @@
+﻿positionForPages[10]={page:10,positions:[{word:"飞雪迎春系列文化活动",left:0.323094,top:0.405029,width:0.470307,height:0.041866},{word:"南开之夏系列文化活动",left:0.323094,top:0.539733,width:0.470307,height:0.041866},{word:"2022南开区主要文艺活动",left:0.069026,top:0.250700,width:0.582529,height:0.050140},{word:"8",left:0.868795,top:0.891752,width:0.009630,height:0.021980}]};

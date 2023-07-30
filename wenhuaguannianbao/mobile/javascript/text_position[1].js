@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"天津市",left:0.160475,top:0.471189,width:0.235616,height:0.058125},{word:"南开区文化馆 ",left:0.042374,top:0.554518,width:0.513272,height:0.058124},{word:"年报",left:0.201383,top:0.633570,width:0.155816,height:0.058124},{word:"2022年",left:0.168501,top:0.864172,width:0.219823,height:0.054418}]};
